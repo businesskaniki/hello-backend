@@ -79,9 +79,9 @@
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
-- Clone the back-end repository by writing `git clone https://github.com/Aquinasmoriasi/hello-rails-back-end.git`
-- Clone the front-end repository by writing `git clone https://github.com/Aquinasmoriasi/https://github.com/Aquinasmoriasi/hello-react-front-end`
-- This is the link to the [Front End Application](https://github.com/Aquinasmoriasi/hello-react-front-end)
+- Clone the back-end repository by writing `git clone https://github.com/businesskaniki/hello-backend.git`
+- Clone the front-end repository by writing `git clone https://github.com/businesskaniki/hello-frontend.git`
+- This is the link to the [Front End Application](https://github.com/businesskaniki/hello-frontend.git)
 - Run `bundle install` to install the project's dependencies
 - Add your database username and password and write `rails db:create` to create the database
 - Run  `rails db:migrate` to migrate the tables to the created database
@@ -140,11 +140,10 @@ rspec <relative path to the test file>
 
 ## 👥 Author <a name="authors"></a>
 
-👤 Aquinas Moriasi
+👤 Nicholas Maina
 
-- GitHub: [Aquinas Moriasi](https://github.com/Aquinasmoriasi)
-- Twitter: [@Aquinas747](https://twitter.com/Aquinas747)
-- LinkedIn: [Aquinas Moriasi](https://twitter.com/aquinas-moriasi)
+- GitHub: [nicholas](https://github.com/businesskaniki)
+- LinkedIn: [nicholas maina](https://twitter.com/businesskaniki)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -161,7 +160,7 @@ rspec <relative path to the test file>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Aquinasmoriasi/hello-rails-back-end.git/issues).
+Feel free to check the [issues page](https://github.com/businesskaniki/hello-backend.git/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -169,7 +168,7 @@ Feel free to check the [issues page](https://github.com/Aquinasmoriasi/hello-rai
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> If you like this project support it by adding a star at [https://github.com/Aquinasmoriasi/hello-rails-back-end/stargazers](https://github.com/Aquinasmoriasi/hello-rails-back-end/stargazers)
+> If you like this project support it by adding a star at [https://github.com/businesskaniki/hello-rails-back-end/stargazers](https://github.com//hello-rails-back-end/stargazers)
 
 
 
